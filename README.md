@@ -1,0 +1,2 @@
+# PageFlipByAnalogInitialize
+页与子页的跳转通过Analog值管理，跳转按钮关联一个Analog变量，变量通过Analog Initialize输入，Analog Equate输出，输出信号关联页和子页join。
